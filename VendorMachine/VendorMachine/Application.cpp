@@ -1,7 +1,7 @@
 
 #include <vector>
 #include "VendorMachine.h"
-#include "afxwin.h"
+// #include "afxwin.h"
 
 int main()
 {
